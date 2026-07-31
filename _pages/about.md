@@ -6,7 +6,7 @@ subtitle: "PhD Student in Geography, <a href='https://cas.okstate.edu/geography/
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sheikh_prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Department of Geography</p>
