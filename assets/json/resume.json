@@ -1,0 +1,295 @@
+{
+  "basics": {
+    "name": "Naiem Sheikh",
+    "label": "PhD Student in Geography · Remote Sensing and Precision Agriculture",
+    "image": "",
+    "email": "naiem.sheikh@okstate.edu",
+    "url": "https://naiemsheikhosu.github.io",
+    "summary": "I specialize in remote sensing and GIS applications in agriculture, applying machine learning and deep learning to geospatial analysis. My work integrates UAS and satellite imagery with in-situ and weather data to improve crop monitoring, yield prediction, and sustainable land management across agroecosystems.",
+    "location": {
+      "city": "Stillwater",
+      "region": "Oklahoma",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "ORCID",
+        "username": "Naiem Sheikh",
+        "url": "https://orcid.org/REPLACE-WITH-YOUR-ORCID"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Naiem Sheikh",
+        "url": "https://www.linkedin.com/in/REPLACE-WITH-YOUR-HANDLE"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Naiem Sheikh",
+        "url": "https://www.researchgate.net/profile/REPLACE-WITH-YOUR-PROFILE"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Oklahoma State University",
+      "location": "Stillwater, OK, USA",
+      "url": "https://cas.okstate.edu/geography/",
+      "area": "Geography — Geospatial Technologies (GIS, UAS, Remote Sensing)",
+      "studyType": "PhD",
+      "startDate": "2024-08-01",
+      "endDate": "",
+      "courses": [
+        "Dissertation: Investigating the impacts of climate and management practices on agroecosystems in the Southern Great Plains (SGP) using remote sensing and in-situ observations"
+      ]
+    },
+    {
+      "institution": "Jahangirnagar University",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://juniv.edu/department/geoenv",
+      "area": "Geography and Environment",
+      "studyType": "M.Sc. (Thesis)",
+      "startDate": "2022-09-01",
+      "endDate": "2023-12-31",
+      "score": "3.95 / 4.00",
+      "courses": [
+        "Thesis: Assessing Regional Disparity Using Nighttime Light Data to Monitor Sustainable Development"
+      ]
+    },
+    {
+      "institution": "Jahangirnagar University",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://juniv.edu/department/geoenv",
+      "area": "Geography and Environment",
+      "studyType": "B.Sc. (Hons)",
+      "startDate": "2017-03-01",
+      "endDate": "2022-08-31",
+      "score": "3.77 / 4.00",
+      "courses": [
+        "Report: Assessing Ecotourism Potentiality of Sundarbans, Bangladesh Using GIS and AHP Techniques"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Department of Geography, Oklahoma State University",
+      "position": "Graduate Research Assistant",
+      "location": "Stillwater, OK, USA",
+      "url": "https://cas.okstate.edu/geography/",
+      "startDate": "2024-08-01",
+      "endDate": "",
+      "summary": "Investigating the impacts of climate and management practices on agroecosystems in the Southern Great Plains using remote sensing and in-situ observations.",
+      "highlights": [
+        "Collect and process multispectral, RGB, and thermal UAS imagery over irrigated corn field experiments",
+        "Develop machine learning models fusing UAS-derived spectral and thermal features with weather data for yield prediction",
+        "Evaluate model generalization across seasons, management practices, and climatic variability",
+        "Conduct field campaigns at USDA-managed research sites in Oklahoma"
+      ]
+    },
+    {
+      "name": "Centre for Environmental and Geographic Information Services (CEGIS)",
+      "position": "Research Consultant",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.cegisbd.com/",
+      "startDate": "2023-09-01",
+      "endDate": "2024-06-30",
+      "summary": "Land use mapping using high-resolution satellite imagery.",
+      "highlights": [
+        "Produced land use maps from high-resolution satellite imagery and integrated them with cadastral plot boundaries"
+      ]
+    },
+    {
+      "name": "Department of Geography and Environment, Jahangirnagar University",
+      "position": "Graduate Research Assistant",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://juniv.edu/department/geoenv",
+      "startDate": "2022-09-01",
+      "endDate": "2023-09-30",
+      "summary": "Research across nighttime remote sensing, land use and land cover change, and agricultural applications.",
+      "highlights": [
+        "Submitted a journal article on nighttime remote sensing",
+        "Applied deep learning to identify shoreline vegetation patterns",
+        "Assessed and predicted agricultural land degradation in Bangladesh using geospatial technologies"
+      ]
+    },
+    {
+      "name": "Department of Geography and Environment, Jahangirnagar University",
+      "position": "Undergraduate Research Assistant",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://juniv.edu/department/geoenv",
+      "startDate": "2020-03-01",
+      "endDate": "2022-08-31",
+      "summary": "GIS and remote sensing research support.",
+      "highlights": [
+        "First-authored a peer-reviewed article on ecotourism potential using GIS and remote sensing",
+        "Conducted literature review, data collection, mapping, and report writing"
+      ]
+    },
+    {
+      "name": "Research Society",
+      "position": "Research Assistant",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://researchsociety20.org/",
+      "startDate": "2020-03-01",
+      "endDate": "2022-04-30",
+      "summary": "Field research support on coastal flooding.",
+      "highlights": [
+        "Submitted a journal article on coastal flooding",
+        "Collected baseline data, conducted household surveys, and managed data entry and reporting"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "National Science and Technology Fellowship",
+      "date": "2023-10-11",
+      "awarder": "Ministry of Science and Technology, Bangladesh",
+      "url": "https://most.gov.bd/",
+      "summary": "Awarded for one of the nation's best Master's research projects."
+    },
+    {
+      "title": "Disaster Related Research Grant",
+      "date": "2023-07-16",
+      "awarder": "Disaster Research Training and Management Center (DRTMC), University of Dhaka",
+      "summary": "Competitive grant supporting graduate research."
+    },
+    {
+      "title": "Challenge Prize Winner, 18th SuperMap GIS Contest",
+      "date": "2020-12-01",
+      "awarder": "SuperMap, Beijing, China",
+      "url": "http://www.giscontest.com/en/list39.aspx",
+      "summary": "Suitability analysis and facilities mapping of Dhaka city."
+    },
+    {
+      "title": "University Excellence Stipend",
+      "date": "2022-01-01",
+      "awarder": "Jahangirnagar University",
+      "summary": "Awarded on the basis of undergraduate academic performance."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Remote Pilot Certificate (14 CFR Part 107)",
+      "date": "2025-10-01",
+      "issuer": "Federal Aviation Administration"
+    },
+    {
+      "name": "Supervised Machine Learning: Regression and Classification",
+      "date": "2024-11-01",
+      "issuer": "Stanford University (Coursera)"
+    },
+    {
+      "name": "Monitoring Water Quality of Inland Lakes Using Remote Sensing",
+      "date": "2023-10-01",
+      "issuer": "NASA ARSET"
+    },
+    {
+      "name": "Digital Image Processing with OpenCV in Python",
+      "date": "2023-07-01",
+      "issuer": "Geo University"
+    },
+    {
+      "name": "Spatial Data Science: The New Frontier in Analytics",
+      "date": "2020-12-01",
+      "issuer": "Esri"
+    },
+    {
+      "name": "Remote Sensing of Coastal Ecosystems",
+      "date": "2020-09-01",
+      "issuer": "NASA ARSET"
+    },
+    {
+      "name": "GIS, Mapping, and Spatial Analysis Capstone",
+      "date": "2020-07-01",
+      "issuer": "University of Toronto"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Remote Sensing",
+      "level": "Advanced",
+      "keywords": [
+        "UAS imagery",
+        "MicaSense multispectral",
+        "Thermal imagery",
+        "Nighttime lights",
+        "Agisoft Metashape",
+        "Erdas Imagine",
+        "IDRISI Selva"
+      ]
+    },
+    {
+      "name": "GIS",
+      "level": "Advanced",
+      "keywords": [
+        "ArcGIS",
+        "QGIS",
+        "Google Earth Engine",
+        "SuperMap GIS",
+        "Spatial analysis",
+        "Cartography"
+      ]
+    },
+    {
+      "name": "Programming and Analysis",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "R",
+        "JavaScript",
+        "SQL",
+        "NCL",
+        "Machine learning",
+        "Deep learning",
+        "HPC / SLURM"
+      ]
+    },
+    {
+      "name": "Research",
+      "level": "Advanced",
+      "keywords": [
+        "Systematic literature review",
+        "Quantitative and qualitative analysis",
+        "Field data collection",
+        "Scientific writing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency (IELTS 7.5)"
+    },
+    {
+      "language": "Bengali",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Crop yield prediction",
+        "Agroecosystem dynamics",
+        "Earth observation foundation models",
+        "Precision agriculture",
+        "Land use and land cover change"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Graduate and Professional Student Government Association, Oklahoma State University",
+      "position": "Department Representative",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Representing the Department of Geography in university graduate governance."
+    },
+    {
+      "organization": "Bangladesh Student Association, Oklahoma State University",
+      "position": "Sports Secretary",
+      "startDate": "2024-12-01",
+      "endDate": "",
+      "summary": "Organizing community and athletic events for the association."
+    }
+  ]
+}
