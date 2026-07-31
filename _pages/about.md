@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "PhD Student in Geography, <a href='https://cas.okstate.edu/geography/'>Oklahoma State University</a> · Remote sensing · UAS · Precision agriculture · Geospatial machine learning"
 
