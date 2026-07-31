@@ -14,18 +14,28 @@
     "profiles": [
       {
         "network": "ORCID",
-        "username": "Naiem Sheikh",
+        "username": "0009-0000-6443-0059",
         "url": "https://orcid.org/0009-0000-6443-0059"
       },
       {
-        "network": "LinkedIn",
+        "network": "Google Scholar",
         "username": "Naiem Sheikh",
-        "url": "https://www.linkedin.com/in/REPLACE-WITH-YOUR-HANDLE"
+        "url": "https://scholar.google.com/citations?user=2r3LfUcAAAAJ&hl=en"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "naiemsheikhju",
+        "url": "https://www.linkedin.com/in/naiemsheikhju/"
       },
       {
         "network": "ResearchGate",
-        "username": "Naiem Sheikh",
-        "url": "https://www.researchgate.net/profile/REPLACE-WITH-YOUR-PROFILE"
+        "username": "Naiem-Sheikh-2",
+        "url": "https://www.researchgate.net/profile/Naiem-Sheikh-2"
+      },
+      {
+        "network": "GitHub",
+        "username": "NaiemSheikhOSU",
+        "url": "https://github.com/NaiemSheikhOSU"
       }
     ]
   },
@@ -37,9 +47,11 @@
       "area": "Geography — Geospatial Technologies (GIS, UAS, Remote Sensing)",
       "studyType": "PhD",
       "startDate": "2024-08-01",
-      "endDate": "",
+      "endDate": "2028-08-01",
+      "score": "4.00 / 4.00",
       "courses": [
-        "Dissertation: Investigating the impacts of climate and management practices on agroecosystems in the Southern Great Plains (SGP) using remote sensing and in-situ observations"
+        "Dissertation: Investigating the impacts of climate and management practices on agroecosystems in the Southern Great Plains (SGP) using remote sensing and in-situ observations",
+        "Coursework: Geospatial Applications for UAS; GIS Programming with Python and AI; Data Science for Agriculture and Natural Resources; Advanced GIS; Geographic Analysis"
       ]
     },
     {
@@ -77,11 +89,13 @@
       "url": "https://cas.okstate.edu/geography/",
       "startDate": "2024-08-01",
       "endDate": "",
-      "summary": "Investigating the impacts of climate and management practices on agroecosystems in the Southern Great Plains using remote sensing and in-situ observations.",
+      "summary": "Investigating the impacts of climate and management practices on agroecosystems in the Southern Great Plains using remote sensing and in-situ observations, as part of USDA-funded research.",
       "highlights": [
         "Collect and process multispectral, RGB, and thermal UAS imagery over irrigated corn field experiments",
         "Develop machine learning models fusing UAS-derived spectral and thermal features with weather data for yield prediction",
         "Evaluate model generalization across seasons, management practices, and climatic variability",
+        "Monitor agroecosystems using Sentinel and MODIS time series alongside UAS observations",
+        "Automate spatial analysis and geoprocessing workflows in Python (GeoPandas, Rasterio, ArcPy)",
         "Conduct field campaigns at USDA-managed research sites in Oklahoma"
       ]
     },
@@ -92,9 +106,11 @@
       "url": "https://www.cegisbd.com/",
       "startDate": "2023-09-01",
       "endDate": "2024-06-30",
-      "summary": "Land use mapping using high-resolution satellite imagery.",
+      "summary": "Land use mapping using high-resolution satellite imagery for government and development projects.",
       "highlights": [
-        "Produced land use maps from high-resolution satellite imagery and integrated them with cadastral plot boundaries"
+        "Produced land use maps from high-resolution (WorldView) satellite imagery and integrated them with cadastral plot boundaries",
+        "Combined spatial data with field survey records to improve classification accuracy",
+        "Prepared maps and technical reports for government and development stakeholders"
       ]
     },
     {
@@ -131,10 +147,12 @@
       "url": "https://researchsociety20.org/",
       "startDate": "2020-03-01",
       "endDate": "2022-04-30",
-      "summary": "Field research support on coastal flooding.",
+      "summary": "Field research and spatial analysis support on coastal flooding and cyclone vulnerability.",
       "highlights": [
         "Submitted a journal article on coastal flooding",
-        "Collected baseline data, conducted household surveys, and managed data entry and reporting"
+        "Geocoded household survey data for cyclone vulnerability mapping",
+        "Built spatial databases and conducted statistical analysis in GIS and R",
+        "Contributed to risk assessment and mitigation planning reports"
       ]
     }
   ],
@@ -193,12 +211,22 @@
       "issuer": "Esri"
     },
     {
+      "name": "Geospatial Technology for Smart Agriculture and Smart City Management",
+      "date": "2020-12-01",
+      "issuer": "Geospatial Awareness Hub"
+    },
+    {
       "name": "Remote Sensing of Coastal Ecosystems",
       "date": "2020-09-01",
       "issuer": "NASA ARSET"
     },
     {
       "name": "GIS, Mapping, and Spatial Analysis Capstone",
+      "date": "2020-07-01",
+      "issuer": "University of Toronto"
+    },
+    {
+      "name": "Spatial Analysis and Satellite Imagery in a GIS",
       "date": "2020-07-01",
       "issuer": "University of Toronto"
     }
@@ -208,24 +236,31 @@
       "name": "Remote Sensing",
       "level": "Advanced",
       "keywords": [
-        "UAS imagery",
+        "UAS/UAV imagery",
         "MicaSense multispectral",
         "Thermal imagery",
+        "Sentinel and MODIS time series",
+        "Land cover classification",
+        "Vegetation indices",
         "Nighttime lights",
         "Agisoft Metashape",
-        "Erdas Imagine",
+        "ERDAS Imagine",
+        "ENVI",
         "IDRISI Selva"
       ]
     },
     {
-      "name": "GIS",
+      "name": "GIS and Spatial Analysis",
       "level": "Advanced",
       "keywords": [
-        "ArcGIS",
+        "ArcGIS Pro",
         "QGIS",
         "Google Earth Engine",
         "SuperMap GIS",
-        "Spatial analysis",
+        "Network analysis",
+        "Suitability modeling",
+        "Terrain analysis",
+        "Geoprocessing",
         "Cartography"
       ]
     },
@@ -233,7 +268,7 @@
       "name": "Programming and Analysis",
       "level": "Advanced",
       "keywords": [
-        "Python",
+        "Python (GeoPandas, Rasterio, ArcPy, scikit-learn)",
         "R",
         "JavaScript",
         "SQL",
