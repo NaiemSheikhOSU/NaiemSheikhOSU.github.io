@@ -117,7 +117,7 @@ bing_site_verification:
 # -----------------------------------------------------------------------------
 
 blog_name: notes
-blog_description: occasional notes on remote sensing, UAS data processing, and geospatial machine learning
+blog_description: Occasional Notes on Geography Remote Sensing, UAS data Processing, Geospatial Machine Learning, and GeoAI
 permalink: /blog/:year/:title/
 lsi: false
 
