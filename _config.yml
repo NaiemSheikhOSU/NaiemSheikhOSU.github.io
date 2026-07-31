@@ -625,16 +625,6 @@ jekyll_get_json:
   - data: resume
     json: assets/json/resume.json
 
-jsonresume:
-  - basics
-  - education
-  - work
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - volunteer
 
 jsonresume:
   - basics
