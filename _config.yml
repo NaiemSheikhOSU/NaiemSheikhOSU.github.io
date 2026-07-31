@@ -295,8 +295,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories]
 
-display_tags: []
-display_categories: []
+display_tags: ["geography", "geoai", "gis", "history-of-thought"]
+display_categories: ["essays"]
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
